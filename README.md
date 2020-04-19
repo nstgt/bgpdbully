@@ -1,1 +1,1 @@
-renamed to [bgpbully](https://github.com/nstgt/bgpdbully)
+renamed to [bgpbully](https://github.com/nstgt/bgpbully)
